@@ -36,4 +36,12 @@ public class Student {
 
     }
 
+    public void updateGrade(){
+
+    }
+
+    public void deleteGrade(){
+
+    }
+
 }
